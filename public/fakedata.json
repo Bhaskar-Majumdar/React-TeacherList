@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Md Giasuddin Khan",
+        "profession": "Principal and Founder",
+        "education": "B.S.S(Hons),M.S.S English (DU)",
+        "mobile": "01773458690",
+        "email": "giasuddin@gmail.com",
+        "salary": 70000,
+        "img": "https://peaceful-mirzakhani-23afa6.netlify.app/image/giasuddin%20sir6119f1b345fe0.jpg"
+    },
+    {
+        "name": "Mosaddek Hossain",
+        "profession": "Vice Principal",
+        "education": "B.com Hon's, M.com, MBA, MPA(DU)",
+        "mobile": "01874450990",
+        "email": "mhossain@gmail.com",
+        "salary": 56000,
+        "img": "https://peaceful-mirzakhani-23afa6.netlify.app/image/Mir%20Mohammad%20Musaddek%20Hossain60f27c17bb2e16119f0f024dd1.jpg"
+    },
+    {
+        "name": "Md Omar Faruk",
+        "profession": "Assistant Professor Bangla",
+        "education": "B.Sc, M.Sc(DU)",
+        "mobile": "01728359140",
+        "email": "faruk@gmail.com",
+        "salary": 45000,
+        "img": "https://peaceful-mirzakhani-23afa6.netlify.app/image/Bbangla%20sir610e170981026.jpg"
+    },
+    {
+        "name": "Md Abu Taleb",
+        "profession": "Assistant Professor English",
+        "education": "B.Sc, M.Sc English",
+        "mobile": "01913500375",
+        "email": "talebabu@gmail.com",
+        "salary": 45000,
+        "img": "https://peaceful-mirzakhani-23afa6.netlify.app/image/abu%20taleb%20sir%20resize610b8d1ed8e45.jpg"
+    },
+    {
+        "name": "Md Abadul Hoque",
+        "profession": "Assistant Professor Math",
+        "education": "B.Sc, M.Sc Applied Math(JU)",
+        "mobile": "01816436261",
+        "email": "abadulhq@gmail.com",
+        "salary": 45000,
+        "img": "https://peaceful-mirzakhani-23afa6.netlify.app/image/rsz_img20210818100327-removebg-preview611c95a4b8a27.png"
+    },
+    {
+        "name": "Shihab Uddin",
+        "profession": "Lecturer in Physics",
+        "education": "B.Sc, M.Sc Applied Physics (JNU)",
+        "mobile": "01798164307",
+        "email": "shihab66@gmail.com",
+        "salary": 32000,
+        "img": "https://peaceful-mirzakhani-23afa6.netlify.app/image/300=300=610a56a91d097.jpg"
+    },
+    {
+        "name": "Sagor Kumar Das",
+        "profession": "Lecturer in ICT",
+        "education": "B.Sc, M.Sc in CSE (DIU)",
+        "mobile": "01749035155",
+        "email": "sagordas@gmail.com",
+        "salary": 27000,
+        "img": "https://peaceful-mirzakhani-23afa6.netlify.app/image/Sagor%20Das610b95f12408c%20(1).jpg"
+    },
+    {
+        "name": "Md Ashaduzzaman",
+        "profession": "Lecturer in Statistics",
+        "education": "B.Sc, M.Sc (DC)",
+        "mobile": "01724069798",
+        "email": "asadiustat@gmail.com",
+        "salary": 29000,
+        "img": "https://peaceful-mirzakhani-23afa6.netlify.app/image/Signature%20-%20MD%20Ashaduzzaman610e2ab61b9de.jpg"
+    },
+    {
+        "name": "Md Manirul",
+        "profession": "Lecturer in Biology",
+        "education": "B.Sc, M.Sc in Botany (DU)",
+        "mobile": "01670134686",
+        "email": "manirmsc@gmail.com",
+        "salary": 28000,
+        "img": "https://peaceful-mirzakhani-23afa6.netlify.app/image/monir_sir_biology%2055610b8bf548cae.png"
+    }
+]
